@@ -1,0 +1,35 @@
+/*Responsive */
+
+@media  screen and (max-width: 767px) {
+
+ section.slider-content-area {
+    margin-top: 100px!important;
+ }
+ .slider-content-area .content-wrapper-row {
+    padding: 0px 30px!important;
+}
+.content-wrapper-row .content-box-01 {
+    margin-bottom: 30px;
+}
+.content-wrapper-row .content-box-02 {
+    margin-bottom: 30px;
+}
+.content-heading.heading-line h2 {
+    text-align: center;
+}
+.heading-line:before {
+    left: 34%!important;
+}
+.main-content-area .content-heading-box p {
+    text-align: center;
+}
+.main-content-area .read-btn {
+    left: 33%;
+}
+.img-area img {
+    width: 100%;
+}
+.counter-area .counter-text-bottom .counter-text-box .counter-text p {
+    margin-bottom: 40px!important;
+}
+}
